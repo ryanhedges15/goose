@@ -1,0 +1,14 @@
+com/evie/test/util/domain/SampleRecord.class
+com/evie/MongoStatLineProcessorTest.class
+com/evie/criteria/util/GenericCriteriaIntegrationTest.class
+com/evie/test/util/configuration/FlapdoodleMongoConfiguration.class
+com/evie/domain/enumeration/UriParameterOperatorAdapterSpec.class
+com/evie/CommandRunnerTest.class
+com/evie/criteria/util/WildCardToRegexUtilSpec.class
+com/evie/service/ScheduledCommandMapServiceIntegrationSpec.class
+com/evie/repository/MongoDatabaseRepositoryIntegrationSpec.class
+com/evie/criteria/util/UriParameterOperationAdapterImplSpec.class
+com/evie/CommandBuilderTest.class
+com/evie/test/util/domain/SampleSubRecord.class
+com/evie/criteria/util/CriteriaUtilSpec.class
+TestApplication.class

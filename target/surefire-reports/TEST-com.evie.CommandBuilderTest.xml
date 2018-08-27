@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.evie.CommandBuilderTest" time="0" tests="1" errors="0" skipped="1" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/home/rmhedge/dev/jdk1.8.0_151/jre/lib/amd64"/>
+    <property name="java.vm.version" value="25.151-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/mnt/c/Users/ryanh/IdeaProjects/goose"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/mnt/c/Users/ryanh/IdeaProjects/goose"/>
+    <property name="java.runtime.version" value="1.8.0_151-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/home/rmhedge/dev/jdk1.8.0_151/jre/lib/endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/home/rmhedge/dev/maven_curr/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="maven.conf" value="/home/rmhedge/dev/maven_curr/conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="4.4.0-17134-Microsoft"/>
+    <property name="library.jansi.path" value="/home/rmhedge/dev/maven_curr/lib/jansi-native"/>
+    <property name="user.home" value="/home/rmhedge"/>
+    <property name="user.timezone" value="GMT"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="rmhedge"/>
+    <property name="java.class.path" value="/home/rmhedge/dev/maven_curr/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/home/rmhedge/dev/jdk1.8.0_151/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_151"/>
+    <property name="java.ext.dirs" value="/home/rmhedge/dev/jdk1.8.0_151/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="sun.boot.class.path" value="/home/rmhedge/dev/jdk1.8.0_151/jre/lib/resources.jar:/home/rmhedge/dev/jdk1.8.0_151/jre/lib/rt.jar:/home/rmhedge/dev/jdk1.8.0_151/jre/lib/sunrsasign.jar:/home/rmhedge/dev/jdk1.8.0_151/jre/lib/jsse.jar:/home/rmhedge/dev/jdk1.8.0_151/jre/lib/jce.jar:/home/rmhedge/dev/jdk1.8.0_151/jre/lib/charsets.jar:/home/rmhedge/dev/jdk1.8.0_151/jre/lib/jfr.jar:/home/rmhedge/dev/jdk1.8.0_151/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/home/rmhedge/dev/maven_curr"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="com.evie.CommandBuilderTest" classname="com.evie.CommandBuilderTest" time="0">
+    <skipped/>
+    <system-out><![CDATA[01:10:39.424 [main] DEBUG org.springframework.test.annotation.ProfileValueUtils - Retrieved @ProfileValueSourceConfiguration [null] for test class [com.evie.criteria.util.GenericCriteriaIntegrationTest]
+01:10:39.429 [main] DEBUG org.springframework.test.annotation.ProfileValueUtils - Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.evie.criteria.util.GenericCriteriaIntegrationTest]
+01:10:39.430 [main] DEBUG org.springframework.test.annotation.ProfileValueUtils - Retrieved @ProfileValueSourceConfiguration [null] for test class [com.evie.criteria.util.GenericCriteriaIntegrationTest]
+01:10:39.430 [main] DEBUG org.springframework.test.annotation.ProfileValueUtils - Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.evie.criteria.util.GenericCriteriaIntegrationTest]
+01:10:39.444 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating CacheAwareContextLoaderDelegate from class [org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+01:10:39.457 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating BootstrapContext using constructor [public org.springframework.test.context.support.DefaultBootstrapContext(java.lang.Class,org.springframework.test.context.CacheAwareContextLoaderDelegate)]
+01:10:39.469 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating TestContextBootstrapper for test class [com.evie.criteria.util.GenericCriteriaIntegrationTest] from class [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]
+01:10:39.497 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.evie.criteria.util.GenericCriteriaIntegrationTest]: class path resource [com/evie/criteria/util/GenericCriteriaIntegrationTest-context.xml] does not exist
+01:10:39.498 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.evie.criteria.util.GenericCriteriaIntegrationTest]: class path resource [com/evie/criteria/util/GenericCriteriaIntegrationTestContext.groovy] does not exist
+01:10:39.498 [main] INFO org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.evie.criteria.util.GenericCriteriaIntegrationTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+01:10:39.500 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.evie.criteria.util.GenericCriteriaIntegrationTest]: GenericCriteriaIntegrationTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+01:10:39.556 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [com.evie.criteria.util.GenericCriteriaIntegrationTest]
+01:10:39.568 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemProperties] PropertySource with lowest search precedence
+01:10:39.568 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemEnvironment] PropertySource with lowest search precedence
+01:10:39.569 [main] DEBUG org.springframework.core.env.StandardEnvironment - Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+01:10:39.581 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [com/evie/criteria/util/] to resources [URL [file:/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria/util/], URL [file:/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/util/]]
+01:10:39.581 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria/util]
+01:10:39.582 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria/util] for files matching pattern [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria/util/*.class]
+01:10:39.588 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/util]
+01:10:39.589 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/util] for files matching pattern [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/util/*.class]
+01:10:39.593 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:com/evie/criteria/util/*.class] to resources [file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria/util/CriteriaUtilSpec.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria/util/GenericCriteriaIntegrationTest$_getSampleRecords_closure1.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria/util/GenericCriteriaIntegrationTest.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria/util/UriParameterOperationAdapterImplSpec.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria/util/WildCardToRegexUtilSpec.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/util/CommandBuilder.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/util/CriteriaUtil$1.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/util/CriteriaUtil.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/util/MongoStatRunner.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/util/UriParameterOperationAdapter.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/util/UriParameterOperationAdapterImpl.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/util/UriParameterUtil.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/util/WildCardToRegexUtil.class]]
+01:10:39.635 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [com/evie/criteria/] to resources [URL [file:/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria/], URL [file:/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/]]
+01:10:39.635 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria]
+01:10:39.635 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria] for files matching pattern [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/criteria/*.class]
+01:10:39.636 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria]
+01:10:39.637 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria] for files matching pattern [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/criteria/*.class]
+01:10:39.637 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:com/evie/criteria/*.class] to resources []
+01:10:39.638 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [com/evie/] to resources [URL [file:/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/], URL [file:/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/]]
+01:10:39.639 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie]
+01:10:39.639 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie] for files matching pattern [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/*.class]
+01:10:39.642 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie]
+01:10:39.642 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie] for files matching pattern [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/*.class]
+01:10:39.644 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:com/evie/*.class] to resources [file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/CommandBuilderTest.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/CommandRunnerTest.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/MongoStatLineProcessorTest$__spock_feature_0_0_closure1.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/test-classes/com/evie/MongoStatLineProcessorTest.class], file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/Application.class]]
+01:10:39.695 [main] DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider - Identified candidate component class: file [/mnt/c/Users/ryanh/IdeaProjects/goose/target/classes/com/evie/Application.class]
+01:10:39.697 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.evie.Application for test class com.evie.criteria.util.GenericCriteriaIntegrationTest
+01:10:39.702 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - @TestExecutionListeners is not present for class [com.evie.criteria.util.GenericCriteriaIntegrationTest]: using defaults.
+01:10:39.705 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+01:10:39.733 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@69b2283a, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@22a637e7, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@6fe7aac8, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1d119efb, org.springframework.test.context.transaction.TransactionalTestExecutionListener@659a969b, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@76908cc0, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2473d930, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@35047d03, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@49b0b76, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@769f71a9, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@4c9f8c13, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@5ae50ce6]
+]]></system-out>
+  </testcase>
+</testsuite>
