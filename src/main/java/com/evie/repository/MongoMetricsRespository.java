@@ -32,12 +32,6 @@ public class MongoMetricsRespository {
     MongoClient mongoClient;
 
     public List<BsonDocument> findAndProduceMetrics(String collectionName,MultiValueMap<String,String> multiValueMap,List<String> groupingFields, AccumulatorOperator operator) {
-//        Aggregation agg = Aggregation.newAggregation(
-//                Aggregation.match(Criteria.where("_id").lt(10)),
-//                Aggregation.group("hosting").count().as("total"),
-//                Aggregation.project("total").and("hosting").previousOperation(),
-//                Aggregation.sort(Sort.Direction.DESC, "total")
-//        return null
         return null;
     }
 
@@ -52,7 +46,4 @@ public class MongoMetricsRespository {
         log.debug("Generated query was:" + query.toString());
         return mongoTemplate.find(query, DBObject.class,collectionName);
     }
-
-
-
 }
